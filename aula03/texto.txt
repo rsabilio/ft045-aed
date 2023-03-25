@@ -1,0 +1,989 @@
+Transcrição da Teleconferência Resultados do 1T22
+06 de maio de 2022
+
+Operador – Bom dia, senhoras e senhores, e obrigado por aguardarem. Sejam bem-
+vindos à teleconferência sobre os resultados do Bradesco no primeiro trimestre de
+2022. Esta teleconferência está sendo transmitida pela internet, no site de relações
+com investidores do Bradesco, no endereço banco.bradesco/ri, onde poderá ser
+encontrada a respectiva apresentação para download. Informamos que há tradução
+simultânea para o inglês. Todos os participantes estarão apenas ouvindo a
+teleconferência e, em seguida, iniciaremos a sessão de perguntas e respostas,
+quando mais instruções serão fornecidas. Caso algum dos senhores necessite de
+assistência durante a teleconferência, queiram, por favor, solicitar a ajuda de um
+operador digitando “*0”. Antes de prosseguir, gostaríamos de esclarecer que
+eventuais declarações que possam ser feitas durante esta teleconferência, relativas
+às perspectivas de negócios da companhia, projeções e metas operacionais e
+financeiras, constituem-se em crenças e premissas da Diretoria, bem como em
+informações atualmente disponíveis para a organização. Considerações futuras não
+são garantias de desempenho: envolvem riscos, incertezas e premissas, pois se
+referem a eventos futuros e, portanto, dependem de circunstâncias que podem ou
+não ocorrer. Investidores devem compreender que condições econômicas gerais,
+condições da indústria e outros fatores operacionais podem afetar o desempenho
+futuro da empresa e podem conduzir a resultados que diferem materialmente
+daqueles expressos em tais considerações futuras.
+Agora, passo a palavra ao senhor Leandro Miranda, Diretor Executivo e IRO.
+
+Leandro Miranda – Bom dia a todos. Bem-vindos a nossa conferência de divulgação
+de resultados referente ao 1T22. Conosco estão presentes os seguintes
+participantes: Octavio de Lazari Júnior, nosso diretor presidente; André Rodrigues
+Cano, diretor vice-presidente e CFO; eu, Leandro Miranda, diretor executivo e IRO;
+Oswaldo Tadeu Fernandes, diretor executivo; Carlos Firetti, diretor de
+Controladoria e Relações com Mercado; Ivan Gontijo, diretor presidente da
+Bradesco Seguros; Renato Ejnisman, diretor-presidente do banco next; Curt
+Zimmermann, diretor presidente do Bitz; e Carlos Giovane Neves, diretor-presidente
+do Digio. Octavio, a palavra é com você.
+
+Octavio de Lazari Junior – Bom dia a todas e todos. Obrigado por participarem de
+nossa teleconferência sobre os resultados do 1T22.
+
+O cenário econômico do primeiro trimestre apresentou uma tímida evolução, com
+as previsões do PIB crescendo um pouco mais e com a criação de mais vagas de
+trabalho.
+
+A inflação continua sendo um fenômeno global preocupante. É um desafio
+relevante para todas as economias, sobretudo a economia brasileira. A guerra na Ucrânia colocou pressão sobre os preços dos combustíveis e de outras
+commodities, e há poucas perspectivas de surgirem influências de contenção na
+evolução dos preços para o curto prazo.
+
+O Banco Central do Brasil avançou com a política monetária e esperamos ver uma
+desaceleração de inflação durante o ano, mas os juros devem permanecer em
+patamares elevados por um longo período, o que deve impedir um crescimento
+maior do PIB.
+
+Considerando este cenário, o Bradesco apresentou um satisfatório desempenho
+nesse trimestre, com Lucro Líquido de R$6,8 bilhões, o que representa um ROE de
+18,0% e uma evolução de 3,1% em relação ao trimestre anterior.
+
+O destaque do período foi a margem financeira, que cresceu 9,5% em relação ao
+mesmo período de 2021. A margem financeira de clientes evoluiu 19,6%, também na
+mesma comparação, fruto do aumento dos spreads, reprecificação da carteira e o
+impacto da elevação da Selic sobre nossa margem de passivos.
+
+A Carteira de Crédito também mostra um importante desempenho, com expansão
+de 2,7% em relação ao 4T21 e de 18,3% frente ao 1T21. A maior evolução ocorreu
+nas carteiras de Pessoas Físicas, que cresceram 3,3% no trimestre e 22,6% na
+variação anual, com destaque para as linhas de maior margem.
+
+No segmento imobiliário tivemos uma desaceleração do crescimento, o que é
+natural em função da elevação da taxa de juros. No entanto, esta é uma linha que
+vai permanecer em evolução e agregando valor ao nosso negócio.
+
+As receitas de prestação de serviços apresentaram um bom desempenho, com uma
+alta de 6,7% na comparação ano a ano.
+
+Os custos totais se mostraram controlados, principalmente considerando as
+pressões da inflação. Houve crescimento comportado de 4,4% na comparação
+anual e uma queda de 9,1% em relação ao trimestre anterior.
+
+Em linha com nossa expectativa, a inadimplência subiu nesse trimestre. Entendemos
+como natural o retorno desse indicador aos níveis pré-pandemia. Importante
+destacar que o crescimento em operações de maior margem também traz um
+crescimento controlado deste indicador, com o qual estamos sempre muito atentos
+na correta calibragem do custo versus benefício.
+
+O resultado operacional de seguros atingiu R$3,3 bilhões no trimestre, um
+crescimento de 4,7% em 12 meses. O resultado mostra que a recuperação da área
+de seguros continua e deve ser maior nos próximos trimestres, com a evolução em
+prêmios, o controle da pandemia e a melhora do resultado financeiro.
+
+Em função de todos esses fatores e associados a fatores exógenos, da economia,
+geopolíticos, revisamos o nosso Guidance e falaremos sobre isso no último slide.
+
+Passando para o slide 3, destacamos que neste trimestre houve um evento que
+classificamos como não recorrente face a sua natureza, que foi uma receita líquida
+de R$ 231 milhões que tivemos com o processo de desmutualização da CIP.
+
+Passamos agora para o slide 4.
+
+A Carteira de Crédito cresceu 18,3% em relação ao mesmo período do ano passado,
+com crescimento de 2 dígitos em todas as linhas.
+
+A demanda por crédito permanece, embora um pouco menor, todavia acelera a
+recuperação das margens. Essa performance é consequência do nosso
+posicionamento comercial lastreado pelo uso intensivo de dados e analytics nas
+análises de risco. Com isso conseguimos ser mais assertivos na definição de preço,
+limites e aprovação.
+
+Destacamos os cartões de crédito, cuja carteira cresceu 45,6% em relação ao 1T21.
+Foi resultado de um trabalho estruturado no sentido do aumento da presença e uso
+dos cartões por mais fatias da nossa base de 74 milhões de clientes. Um dos pontos
+centrais para o sucesso desse esforço foi a criação de novos produtos direcionados
+ao público amigável aos meios digitais.
+
+A linha de crédito imobiliário apresentou crescimento anual de 23,3%. Gostaria de
+lembrar que a originação do financiamento de imóveis vem de recorde histórico em
+2021. Como era de se esperar, essa performance não deve se repetir em 2022. O
+crescimento vai continuar, só que em ritmo mais compatível ao novo cenário de
+juros mais elevados. As linhas de crédito imobiliário, de qualquer modo, continuam
+sendo uma prioridade da nossa agenda de trabalho.
+
+O Crédito para Pessoas Jurídicas registrou evolução de 15,7% em 12 meses. As
+principais modalidades foram Capital de Giro, CDC e Crédito Rural.
+
+Os canais digitais contribuíram com R$24 bilhões da originação no trimestre, uma
+evolução de 44%.
+
+É cada vez maior a participação dos Canais Digitais na produção da carteira e nossa
+expectativa é de engajamento crescente dos clientes no consumo de crédito por
+esses canais. É uma tendência natural e o esforço é oferecer cada vez mais
+facilidade e jornadas amigáveis de acesso para impulsionar a originação digital.
+
+Todavia vocês podem observar que a originação já é menor que no 4T21, fruto da
+elevação da taxa de juros e criteriosa análise de risco.
+
+Mudamos para o slide 5.
+
+Estamos em um momento de normalização das condições de crédito, já que os
+índices de inadimplência estavam em níveis historicamente baixos.
+
+O retorno ajustado ao risco do crédito se encontra em nível adequado, tendo em
+vista os movimentos de reprecificação e giro da carteira.
+
+Tivemos um crescimento da despesa de PDD expandida no trimestre, atingindo
+2,3% da carteira. O total de provisões representa 7,6% da carteira, uma expansão
+em relação ao trimestre anterior. Mesmo assim, continuamos com níveisconfortáveis de reserva em nosso balanço, com índice de cobertura de 235%, e de
+105% considerando a inclusão da carteira renegociada no índice.
+
+Passamos agora para o slide 6.
+
+A carteira renegociada chegou a 4,9% da carteira de crédito. Na comparação com
+março de 2021 apresenta crescimento de 3,1%, bem abaixo do crescimento de 17,1%
+da carteira de crédito nesse período.
+
+Dado o crescimento que estamos observando na carteira de crédito, entendemos
+como normal e controlado este crescimento da carteira renegociada.
+
+Nossas provisões para a carteira renegociada representam 62,3% do total. A
+inadimplência dessa carteira ficou em 18,7%, ainda abaixo do nível histórico.
+
+No slide 7 analisamos os índices de inadimplência.
+
+O índice de inadimplência total registrou 3,2%, com uma elevação de 40 bps em
+relação ao período anterior. Ela deve-se principalmente ao processo de
+normalização da inadimplência, que já tínhamos antecipado que ocorreria, e o efeito
+do mix de crescimento do crédito. No segundo trimestre deveremos ter uma menor
+elevação (10-20bps) e uma relativa estabilidade ao longo do segundo semestre.
+
+Especificamente em Pessoas Físicas, a aceleração nesse trimestre ocorreu com a
+expansão das carteiras de maiores spreads, especialmente cartões de crédito.
+
+Consideramos que o crescimento do Indicador de inadimplência de 15 a 90 dias é
+sazonal, sem qualquer excepcionalidade.
+
+A Despesa de PDD Bruta representou 96% da criação de NPL.
+
+Por fim, destaco que continuamos com o nosso processo de gestão de crédito e
+venda de carteiras não performadas e ativas sempre que o movimento é
+economicamente vantajoso. Todavia destacamos que, neste trimestre, não
+realizamos venda de carteiras ativas de forma material (apenas R$ 120 milhões).
+
+Passamos agora para o slide 8.
+
+A margem financeira total apresentou sólido desempenho no primeiro trimestre,
+crescendo 0,6% em relação ao 4T e 9,5% em 12 meses.
+
+O principal “driver” foi a margem com clientes, que evoluiu 7,0% no trimestre e
+19,6% na comparação anual. O crescimento da margem de passivos é neste
+momento o principal impulsionador do crescimento da margem de clientes, sob
+impacto dos juros maiores que 2021.
+
+Adicionalmente, a margem das operações de crédito apresentou um desempenho
+acima da nossa expectativa inicial, fruto de melhores spreads, velocidade de giro da
+carteira e expansão nas operações de maior retorno. Nesse trimestre, a margem declientes bruta cresceu 60 bps e a líquida, mesmo com o aumento da provisão, 30
+bps.
+
+Em relação à margem com o mercado, apresentamos redução de 43,1% no
+trimestre, com resultado de R$1,2 bilhão, reflexo do aumento do CDI nas posições
+de ALM.
+
+O slide 9 apresenta a Receita de Prestação de Serviços, que cresceu 6,7% no
+comparativo anual. Houve redução sazonal no trimestre.
+
+A linha de Cartões trouxe a principal contribuição para a evolução anual, com
+crescimento de 19,1%. Tivemos expansão na quantidade de cartões, sobretudo
+através de vendas nos canais digitais, que cresceram 260% em relação a um ano
+atrás. O fim da pandemia trouxe um aumento do valor transacionado em cartões.
+Curiosamente, neste trimestre o valor foi superior ao do quarto trimestre, que
+sazonalmente costuma ser o maior por conta das festas de final de ano.
+
+O segmento de consórcios é outro destaque. Somos líderes de mercado e 27% das
+vendas já se realizam pelos canais digitais.
+
+Passamos para o slide 10.
+
+A política de disciplina orçamentária é uma constante em nossa gestão.
+
+As despesas operacionais tiveram evolução de 4,4% em comparação com o 1T21,
+número bem abaixo da inflação acumulada no período, mesmo com investimentos
+na aquisição de clientes e na evolução digital.
+
+As Despesas de Pessoal cresceram 8,5% no comparativo anual, apesar do acordo
+coletivo de 10,97% que ocorreu em setembro de 2021.
+
+Continuamos promovendo crescimento importante nas equipes de TI, analytics e
+em times de negócios, como especialistas de investimento. Mesmo com todos os
+investimentos que estamos realizando no banco, o número total do quadro se
+reduziu em 1,3% em um ano.
+
+As Despesas Administrativas cresceram 5,6% também no comparativo anual,
+demonstrando que absorvemos boa parte da inflação acumulada, 11,3% do IPCA e
+14,7% do IGP-M, além do aumento do volume de negócios, que impactam nossas
+despesas variáveis.
+
+Entre os fatores que contribuíram para o bom desempenho das despesas
+administrativas, temos ações de destaque como a otimização da rede de
+autoatendimento, promovendo uma redução de 4,2 mil máquinas próprias, ou 13,9%
+no período de um ano. Também continuamos a revisar nossa presença física,
+buscando a evolução do atendimento aos nossos clientes para um modelo cada vez
+mais consultivo e menos transacional. A otimização total para este ano será de 491
+agências, sendo 269 convertidas para unidades de negócios, 134 convertidas em PA
+e 88 fechadas/incorporadas.
+
+Além disso, vale destacar que em nossas despesas de pessoal e administrativas já
+estão incluídos os investimentos relacionados a expansão de nossas iniciativas
+digitais, Next, Ágora, Bitz e Digio. Se esses investimentos não tivessem ocorrido, o
+crescimento de nossas despesas totais seria a metade.
+
+Vale ainda mencionar, em nossas iniciativas digitais, neste ano, estamos fazendo um
+trade-off em crescimento, privilegiando a ativação, retenção e fidelização dos
+clientes.
+
+A linha de Outras Despesas apresentou contração de 15,5%, principalmente por
+maiores níveis de provisões no ano passado. Nossa expectativa é que essa linha
+apresente redução em 2022.
+
+O Grupo Segurador teve expansão no faturamento de 13,2%, observado em todas
+as linhas de negócios, acompanhado de aumento da quantidade de contratos como
+também na quantidade de veículos, residências e vidas, no comparativo anual. Essa
+performance foi obtida em todos os canais de distribuição e parceiros de negócios,
+com destaque para o desempenho dos canais digitais, com expansão de 56% no
+primeiro trimestre 2022.
+
+O Resultado das Operações de Seguros apresentou melhora de seu desempenho
+no 1T22 em função do crescimento do faturamento e melhora do resultado
+financeiro no período.
+
+O volume de sinistros relacionados à Covid no 1T22 foi de R$512 milhões, o menor
+da série desde o início 2021 e 54,7% menor que o mesmo período do ano passado.
+Apesar do aumento recente de demandas em função da nova variante Ômicron, não
+observamos a mesma severidade dos períodos anteriores. Os casos de internação
+são bem menos frequentes e a recuperação tem ocorrido em menor tempo.
+
+Mudamos para o slide 12.
+
+O índice Nível 1 permaneceu no mesmo patamar do período anterior, bem acima do
+mínimo regulatório. O lucro do período foi suficiente para absorver a distribuição
+aos acionistas na forma de JCP, os ajustes prudenciais e o crescimento da carteira
+de crédito.
+
+Os indicadores de liquidez também permaneceram em patamares bastante
+confortáveis.
+
+Mudando para o slide 13, vamos falar sobre a nossa expansão digital.
+
+Durante os últimos dois anos apresentamos para vocês o movimento de aceleração
+tecnológica que vivemos e que foi intensificado pela pandemia. Hoje, com a vida
+mais próxima ao normal, gostaria de falar para vocês sobre outro momento: o de
+fidelização por experiência e valorização da autonomia. Se antes, e principalmente
+no âmbito financeiro, muitas pessoas tinham receio ou preferiam utilizar os canaisfísicos para fazer transações e adquirir produtos e serviços, hoje essa realidade é
+completamente diferente.
+
+Muitos dos nossos clientes agora priorizam a experiência digital. Prova disso é que,
+do nosso total de transações, 98% são realizadas pelos Canais Digitais Bradesco.
+Desse total, 93% estão concentradas no Mobile e Internet. E o crescimento continua
+acelerado. Se considerarmos apenas o comparativo dos três primeiros meses deste
+ano com o mesmo período do ano passado, tivemos um crescimento significativo
+de 92% nas transações financeiras via Mobile.
+
+Essa expansão da experiência digital também se reflete no número de Clientes
+Digitais, que hoje representam quase 70% dos clientes Bradesco. Um número que
+só cresce e que deve continuar em evolução. A abertura de contas pelo App também
+apresenta uma tendência de crescimento. Encerramos o primeiro trimestre deste
+ano com um crescimento 5 vezes maior do que no mesmo período de 2021. Gostaria
+de destacar, também, o crescimento de 72% de aberturas de contas MEI, mostrando
+a força do nosso posicionamento no segmento de microempreendedores.
+
+Passamos para o slide 14.
+
+O relacionamento com clientes mais digitais nos leva para um cenário de novas e
+maiores oportunidades de negócios, sempre voltadas para um desenvolvimento
+sustentável. Nesse trimestre, observamos os canais digitais como protagonistas na
+oferta de crédito. Para pessoas físicas, o número de operações de crédito liberadas
+por meio dos Canais Digitais Bradesco já representa 73% do total.
+
+Também percebemos a movimentação de empreendedores com foco na retomada
+pós pandemia. Estamos em contínua evolução das nossas plataformas voltadas à
+pessoa jurídica, inclusive com startups parceiras. No comparativo anual, a liberação
+de crédito digital PJ evoluiu 48%, atingindo R$ 10,1 bilhões.
+
+Mudamos para o slide 15.
+
+Em adição aos indicadores de desenvolvimento digital apresentados nos slides
+anteriores, trouxemos para vocês nesse slide números que demonstram que não é
+somente em produtos de crédito que tivemos evolução relevante. Consórcios,
+investimentos, produtos de seguros, entre outros, apresentaram crescimentos
+consistentes.
+
+Também contribuíram para a evolução nas vendas o lançamento de novas
+funcionalidades, como, por exemplo, a emissão dos cartões de crédito em D0 e
+possibilidade do cliente adicionar o novo cartão a sua wallet imediatamente após a
+aprovação, sem a necessidade de aguardar a emissão física.
+
+Mudamos agora para o slide 16 para falar de nossas iniciativas digitais.
+
+A Ágora cresceu 50% sua captação líquida em um ano e chegou a 785 mil clientes.
+
+O next cresceu a sua base de clientes 153% em um ano e chegou a 11 milhões de
+clientes. O volume transacionado praticamente dobrou no mesmo período. O next
+entra nesse ano em fase mais focada na rentabilização de clientes.
+
+O Bitz chegou a 9,5 milhões de downloads e 6,0 milhões de clientes. Ele se tornou a
+porta de entrada de clientes em fase de bancarização.
+
+Nesse trimestre, concluímos a transação do Digio, que já está totalmente
+incorporado em nossos números. São 3,9 milhões de contas que tiveram um TPV de
+R$ 2,5 bilhões nesse primeiro trimestre.
+
+Nossas iniciativas digitais seguirão crescendo nesse ano, já buscando o
+aprofundamento do relacionamento com os clientes com foco na rentabilização.
+
+Passamos para o slide 17, onde falamos sobre sustentabilidade.
+
+Atualizamos nossa estratégia de sustentabilidade, que agora se fundamenta em 3
+pilares estratégicos: Negócios Sustentáveis, Agenda Climática e Cidadania
+Financeira, pois esses temas demandam uma agenda de mudança mais ativa e maior
+foco estratégico.
+
+Para cada um desses 3 pilares, assumimos compromissos públicos para
+potencializar nossa contribuição com o Desenvolvimento Sustentável.
+
+No pilar de Cidadania Financeira, por exemplo, acabamos de assumir junto à ONU o
+Compromisso de Educação e Inclusão Financeira, sendo o único banco brasileiro a
+fazer parte desse seleto grupo de 28 bancos signatários. É a nossa declaração
+pública de que almejamos contribuir cada vez mais com a inclusão financeira e a
+promoção da saúde financeira de clientes e da sociedade.
+
+Seguimos comprometidos com a Meta de direcionar R$ 250 bilhões a setores e
+ativos de impacto socioambiental positivo até 2025, onde até março de 2022 já
+alcançamos R$ 107 bilhões, ou 43% da meta.
+
+Na Agenda Climática, temos uma participação ativa tanto na ONU, através do Net-
+Zero Banking Alliance, quanto do GFANZ (aliança global das principais instituições
+do setor financeiro para acelerar a transição para uma economia mais limpa).
+
+Sustentabilidade é um dos nossos 4 pilares da Estratégia Corporativa, alinhado ao
+nosso propósito de “Criar Oportunidades para a Realização das Pessoas e para o
+Desenvolvimento Sustentável das Empresas e da Sociedade”, e queremos continuar
+como líderes e protagonistas dessa agenda em nível global.
+
+Mudamos para a página 18.
+
+Em vista das significativas mudanças nas dinâmicas dos mercados em que atuamos,
+revisamos o guidance de forma a refletir nossa atual performance e nossas
+expectativas.
+
+Os spreads têm ficado acima dos patamares que estávamos esperando, e não
+vemos pressões adicionais em 2022. Isso tem permitido uma reprecificação mais rápida da carteira de crédito; além disso, no mix temos tido um crescimento em
+produtos com maiores spreads. Também temos capturado um benefício maior que
+o estimado na margem de passivos, que compõe a Margem com Clientes.
+
+Assim, atualizamos nosso guidance de Margem com Clientes de forma significativa
+para 18 a 22% de crescimento contra 8 a 12% anteriormente.
+
+Para a linha de PDD Expandida, em função da intensificação do crescimento em
+carteiras de maior retorno, alteramos nossas expectativas, que antes eram de R$15
+a 19 bilhões para a nova faixa de R$17 a 21 bilhões.
+
+Para Receitas de Prestação de Serviços, considerando a performance observada
+neste início de ano e nossas expectativas para o restante do ano, atualizamos a faixa
+dessa linha para um crescimento de 4 a 8%.
+
+Em Despesas Operacionais, continuamos com foco na eficiência e controle absoluto
+das despesas, mesmo contemplando investimentos nas nossas iniciativas digitais e
+na evolução tecnológica do nosso negócio. Atualizamos o guidance anterior para
+uma nova faixa entre 1 e 5% pelas razões já comentadas anteriormente.
+
+Mantivemos o guidance para as linhas de Seguros e de Carteira de Crédito
+Expandida.
+
+Em Seguros, devemos caminhar para o range do guidance, do meio para cima. O
+resultado deve se beneficiar pelo crescimento dos prêmios, índices financeiros mais
+favoráveis e uma base de comparação menor em alguns trimestres de 2021, que
+foram impactados pela pandemia. Nesse mês de março, por exemplo, o Grupo
+Segurador teve um realizado 16% maior que no ano passado, já bem próximo ao
+Guidance.
+
+Em Carteira de Crédito Expandida, vemos um crescimento compatível com a faixa
+apresentada, de 10% a 14%, em função do elevado crescimento no ano anterior,
+mas com um mix mais favorável.
+
+Por enquanto, continuamos com a nossa política de não dar guidance oficial para a
+Margem com o Mercado, mas em benefício da transparência, informamos que não
+esperamos que esta linha tenha resultado incremental ao longo dos próximos
+trimestres de 2022.
+
+Obrigado pela atenção de todos, passamos agora para a seção de perguntas e
+repostas.
+
+Operador – Obrigado, iniciaremos agora a sessão de perguntas e respostas. Para
+fazer uma pergunta, por favor, digitem *1 e para remover a pergunta da fila,
+digitem *2. A nossa primeira pergunta vem de Eduardo Rosman, BTG. Por favor,
+pode prosseguir.
+
+Eduardo Rosman (BTG Pactual) – Bom dia a todos, a minha pergunta é sobre o
+guidance, a gente viu uma mudança importante nas entrelinhas e acho que o
+guidance indica que o core, o NII de clientes, está melhor. Sei que é muito cedo parafalar de 2023, estamos ainda no começo do ano e tem muita coisa acontecendo mas
+dá para dizer que a composição desse novo guidance tem um carrego positivo para
+2023? Dá para dizer isso? Obrigado!
+
+Octavio de Lazari Junior – Oi, Eduardo, bom dia, é um prazer falar com você!
+Eduardo, a gente fez revisões de guidance, a gente entendeu que era necessário
+pelo bem da transparência e da relação que a gente sempre teve com vocês, os
+indicadores, o giro da carteira, a resiliência da inflação que vai manter a taxa de juros
+elevada por mais tempo, quer dizer, aquela perspectiva que nós tínhamos no final
+do ano passado de que poderia haver uma redução de taxa de juros, de Selic, ainda
+no ano de 2022 e depois 2023, parece que não tem mais dúvida nenhuma de que
+não vai acontecer, essa taxa de juros vai continuar alta ao longo de 2022 e se houver
+redução, vai ser só talvez no segundo semestre de 2023. Os fatores exógenos
+mudaram muito rapidamente ao longo do primeiro trimestre, foi guerra, inflação
+americana, inflação européia, dólar voltou para R$4,50, já está de novo em mais de
+R$5,00, então aconteceu muita coisa ao longo do primeiro trimestre, isso nos deixou
+muito confortáveis, muito tranquilos de que a gente tinha que fazer essa revisão. E
+essa revisão que a gente fez, você observou com muita sabedoria, ela vai nos trazer
+um carrego positivo para 2023. Você sabe muito bem, a carteira de crédito que a
+gente está conseguindo girar, que foi originada e não é pouca, é uma carteira de
+crédito de mais de R$800 bilhões e foi originada lá atrás, a gente vem crescendo a
+carteira de crédito há 2-3 anos, a 2 dígitos altos e foi originada com uma Selic de
+2%, ela está sendo girada a uma Selic já de 12,75% e uma Selic que pode aumentar
+ainda mais, então a expectativa para 2023 certamente é a de que a gente vai ter um
+carrego positivo disso que nós estamos plantando agora. Além, lógico, traz um
+pouco mais de PDD, mas por outro lado, traz um spread melhor que são as
+operações que a gente vem fazendo, porque é meio natural que o crédito imobiliário
+você reduza a produção, não porque quer reduzir, mas é natural que aconteça; uma
+operação de crédito imobiliário de 20-30 anos com uma taxa de juros de 12%-13%
+é uma operação que vai ter uma produção menor, nós estávamos produzindo R$2,5-
+R$3bi por mês de crédito imobiliário, estamos fazendo agora R$1,2-R$1,5bi porque
+as pessoas não querem tomar um crédito de 20 anos com uma taxa de juros desse
+tamanho. As empresas devem tomar muito mais linhas de capital de giro para
+atender o curto prazo do que investimentos vultuosos de longo prazo porque a taxa
+de juros está elevada, então a gente tem sim uma boa convicção de que teremos
+um carrego positivo para 2023 em função das medidas que a gente está tomando
+em 2022 e que fizeram inclusive, que a gente revisse o guidance.
+
+Eduardo Rosman (BTG Pactual) – Ótimo, Octavio, só mais uma pergunta, acho que
+você falou e vocês estão realmente surpreendendo nos custos, acho que mais uma
+vez e vocês estão com várias iniciativas que já não são novas, mas tem o Bitz, tem a
+Ágora, tem o Next, e como fica o investimento nessas iniciativas nesse ambiente
+obviamente de juros muito mais altos? Vocês vão continuar investindo pesado, ou
+realmente em um ambiente de juros mais altos, essas iniciativas acabam, digamos,
+que os resultados delas vão demorar um pouco mais de tempo para contribuíremnos números do Bradesco e tem que ter também um controle de custos maior ali.
+Seria interessante se você pudesse falar um pouco sobre isso, obrigado!
+
+Octavio de Lazari Junior – Obrigado, Eduardo! De fato, você tem razão, a gente
+tem que ter um controle de custos muito rigoroso tanto o Renato, como o Curt,
+como o Giovane, o Luiz Cláudio lá da Ágora, a gente tem um trabalho muito intenso
+de controle de custos e investir naquilo que de fato vai poder trazer resultados. Por
+isso que eu disse que tem um pouco de trade-off nesse ano de 2022, vamos
+privilegiar menos o crescimento muito acelerado e privilegiar mais a retenção, a
+fidelização e a rentabilização desses clientes. Se a gente olhar as nossas apostas
+digitais, não vou nem colocar a Ágora aqui, mas apenas essas três, estamos falando
+praticamente de 20 milhões de clientes nessas três apostas digitais, Next, Bitz e
+Digio, até um pouco mais do que isso. É um número importante de clientes que a
+gente tem para rentabilizar, então estamos fazendo um trade-off de crescimento,
+até porque a gente está vendo o que está acontecendo com as empresas de growth
+versus as empresas de valor, então nós estamos vendo o movimento que está
+acontecendo no mercado dessas empresas de growth, comparado com as
+empresas de value, as empresas de valor, então são apostas que a gente vai
+continuar investindo, são apostas que a gente já viu que elas são vitoriosas, todas
+elas, pelos clientes que trazem e são empresas que rapidamente vão poder, se não
+for fazer negócios, trazendo um parceiro ou fazendo um IPO, certamente serão
+trazendo ganhos de equivalência para a organização. Então são negócios que ainda
+exigem investimentos e por isso comentei sobre o total de despesas, o quanto é de
+investimentos que estamos fazendo nos negócios digitais, mas sim são negócios
+importantes pela fidelização e manutenção de clientes, do crescimento da base de
+clientes que esses negócios trazem para nós.
+
+Eduardo Rosman (BTG Pactual) – Está ótimo, Octavio, muito obrigado!
+
+Operador – Lembramos que para fazer perguntas, basta digitar *1. Pedimos a
+gentileza que os participantes se limitem a apenas uma pergunta. Seguimos com
+Jason Mollin, Scotiabank.
+
+Jason Mollin (Scotiabank) – Bom dia a todos e obrigado pela oportunidade de
+fazer perguntas. A minha pergunta sobre guidance e despesas de investimentos já
+foram respondidas então a minha pergunta é se vocês podem falar sobre o cenário
+competitivo hoje em comparação com a pré-pandemia, especificamente para
+produtos como conta corrente, cartões de crédito e crédito imobiliário. Em quais
+segmentos o Bradesco sente a presença de novos entrantes, onde o Bradesco tem
+visto mais pressão na precificação, taxas de contas, fees de gestão, spread de
+crédito, pagamentos e etc? E a segunda pergunta tem a ver com o ambiente
+regulatório e político, primeiro, se puder discorrer sobre o projeto de aumento de
+impostos para bancos e instituições financeiras, se vocês podem fornecer uma atualização sobre o que está sendo discutido e, em segundo lugar, ouvimos na mídia
+declarações do presidente Bolsonaro em que ele afirmou que haveria um anúncio
+fantástico que revolucionaria as transações financeiras no Brasil, o Bradesco sabe o
+que será isso? Se de fato estamos recebendo perguntas, se o Brasil pode introduzir
+uma moeda digital do Banco Central no curto prazo? Obrigado!
+
+Octavio de Lazari Junior – Obrigado, Jason, é um prazer falar com você! Jason, o
+crescimento das carteiras de crédito vem acontecendo de uma forma importante,
+com uma concorrência mais acirrada, principalmente por conta dos neo-banks, e
+quando falamos de neo-banks, estamos falando muito mais de linhas de cartão de
+crédito, que é a grande concorrência, mas também já começa um pouco no crédito
+pessoal, basicamente são essas duas linhas. No crédito imobiliário, basicamente
+pela necessidade de funding para fazer essas operações, a concorrência se dá nos
+cinco grandes bancos de mercado, um aqui, outro ali, mas normalmente são esses
+cinco bancos que têm 98% da produção. E a concorrência é uma concorrência
+natural, você vê que as taxas de juros não têm muita diferença de um banco para
+outro, exceto o banco estatal que tem um crédito imobiliário voltado mais para as
+classes menores da população, de resto é uma concorrência normal, tanto é que a
+gente está mais ou menos com os mesmos níveis de produção, então não vejo um
+ataque dos neo-banks nessas linhas de crédito imobiliário. Nós tivemos que andar
+rápido com relação ao cartão de crédito para poder competir de igual para igual,
+esses neo-banks hoje trabalham com um cartão de crédito que não tem anuidade,
+enfim, o trabalho do banco foi da mesma maneira de que nós temos investimentos
+importantes nos nossos negócios digitais, você tornar o nosso “bancão”, o nosso
+Banco Bradesco incumbente, tão digital quanto as iniciativas digitais, então você
+veja o crescimento que aconteceu no número de cartões de crédito, número de TPV,
+de faturamento do cartão de crédito também dentro do banco, tanto é que deu uma
+evolução de 45%, então são novos produtos, jornada mais adequada, assim que o
+cartão for aprovado, cliente já pode incorporar na wallet dele e passar a usar, então
+tem uma série de trabalhos que foram feitos, então entendemos que nós estamos
+em uma boa condição de competição, similar com os neo-banks. Em contas
+correntes, como eu disse para vocês, você viu a quantidade de contas que a gente
+vem abrindo não só no Bradesco, mas também nas iniciativas digitais. As iniciativas
+digitais, como eu disse, já representam 18-20 milhões de clientes para nossa
+corporação, sem falar dos clientes do Banco Bradesco. Então eu acho que a pressão
+maior que pode haver é cartão de crédito e crédito pessoal em menor escala. Com
+relação ao aumento de impostos, já aconteceu agora da CSLL que infelizmente a
+gente não tem muito o que fazer, temos que participar ou, de alguma forma,
+contribuir para que pudesse ser atendida aquela necessidade com relação ao Refis
+das Pequenas e Micro Empresas, enfim, está dado e acho não deve ter nenhuma
+novidade ao longo desse ano. Existem muitos projetos no governo com relação à
+tributação de dividendos e de outras coisas, mas isso não tem nada definido, vamos
+continuar acompanhando de perto para ver o que vai acontecer. Com relação a
+qualquer novo produto ou situação no mercado financeiro que possa ser
+revolucionário, eu acho que a única coisa que nós temos é o PIX, tem agora o
+assunto da CBDC, da moeda digital, mas é um processo que ainda precisa de uma
+maturação, precisa de testes porque é um processo cuidadoso de testar tudo isso,porque nós estamos lidando com milhões de pessoas no Brasil e portanto precisa
+ter toda a segurança com relação à fraude, com relação à LGPD/lavagem de
+dinheiro, enfim, tudo aquilo que nós sabemos que é necessário e exigido de todos
+nós, não só bancos incumbentes mas agora também os neo-banks tendo uma
+exigência regulatória muito maior, não só de capital mas também com relação à PLD,
+à verificação dos clientes, à Know Your Client e todo o escopo regulatório que o
+Banco Central vem tomando as medidas. Acho que vem diminuindo um pouco a
+assimetria regulatória com a última divulgação do Banco Central da exigência de
+capital, está certo que começa só a partir de 2023 com previsão final de 2025, mas
+pelo menos já foi um passo dado para que haja exigência de capital pelos riscos que
+cada um desses bancos pode representar para o mercado financeiro, seja em um
+produto ou como um todo. Então acho que nós estamos caminhando sempre, já há
+alguns anos, em um mercado de maior concorrência, mas acho que os bancos
+incumbentes souberam e estão sabendo se posicionar para poder concorrer bem
+nesse mercado.
+
+Jason Mollin (Scotiabank) – Aprecio muito seus comentários, obrigado!
+
+Operador – Obrigado! Estamos interessados em ouvir todos, para isso, pedimos,
+por gentileza, que se limitem a uma pergunta. Seguimos com Marcelo Telles,
+Credit Suisse.
+
+Marcelo Telles (Credit Suisse) – Olá, bom dia a todos e obrigado pela
+oportunidade de fazer perguntas. Bom dia, Octavio, Leandro e a todo o management
+do Bradesco. A minha pergunta é em relação ao ritmo de originação de crédito e ao
+apetite de risco de vocês. Olhando os dados da apresentação, vocês mostraram que
+a originação do crédito pessoa física caiu 14% no ano contra ano e olhando os dados
+do 4T21, ela estava mais ou menos flat, tinha crescido perto de 1% e agora caiu 14%
+no ano contra ano e olhando os dados do Banco Central, pelo menos até fevereiro,
+as originações diárias, nós vemos que teve um aumento no crédito de varejo pessoa
+física de 13%. Então o BC está indicando um aumento das originações e, no caso de
+vocês, uma queda no ano contra ano; se puder reconciliar um pouco isso para gente,
+como é que vocês estão vendo o ambiente, se vocês estão adotando uma posição
+um pouco mais cautelosa e em quais segmentos. E uma pergunta relacionada a isso,
+como vocês estão vendo a performance da carteira de cartões de crédito de vocês,
+entre os clientes do Bradesco mesmo e os clientes do Banco Next, tem uma
+performance muito diferente entre esses clientes? Obrigado!
+
+Octavio de Lazari Junior – Obrigado, Marcelo, é um prazer falar com você! Marcelo,
+o ritmo de originação como a gente mostrou aqui, ele diminuiu um pouco, mas
+basicamente tem muito a ver, eu digo que 80%-90% dessa diminuição, ela se reflete
+na pessoa física ao crédito imobiliário porque, como eu disse, a gente estava
+originando R$3 bilhões por mês e agora estamos originando R$1,2-R$1,5bi, não porque diminuiu o nosso apetite, mas porque a taxa de juros leva as pessoas a uma
+reflexão melhor se vai para uma operação de 20-30 anos com uma taxa de juros
+desse tamanho, o que é natural e também é uma diminuição do volume, do valor
+tomado pelo cliente, ele procura dar mais entrada, financiar um pouco menos para
+que ele possa ter maior tranquilidade para pagar. Então acho que o ritmo da
+originação vai diminuir mesmo, Marcelo, acho que é natural pelo aumento da taxa
+de juros, não tem muito jeito porque a gente tem que lembrar também da base
+comparativa, a gente vem crescendo há 3 anos dois dígitos altos de crescimento de
+crédito, então a base comparativa também é diferente. O apetite ao risco - não é
+necessariamente que a gente diminuiu o apetite ao risco, é que quando nós
+incorporamos as novas taxas de juros nos modelos de credit score, nos modelos de
+analytics, Marcelo, naturalmente você acaba tirando algumas pessoas porque você
+tem uma taxa de juros maior, o ponto de corte muda e, portanto, o cliente precisa
+ter mais renda ou a operação precisa ser de um valor menor para que ele possa ser
+aprovado nos modelos de crédito, então, isso é um efeito natural quando você
+muda a variável taxa de juros, sai de uma Selic de 2% e vai para uma Selic de 12,75%,
+é natural que os modelos acabem colocando menos pessoas para dentro, então
+acho que isso é um pouco do está acontecendo. A gente também tem que olhar sob
+o olhar de investimento das empresas, como eu comentei, grandes projetos,
+investimentos mais vultuosos, investimentos que as empresas estejam fazendo de
+longo prazo, eles ficam um pouco prejudicados porque todo mundo quer esperar
+um pouco, esperar o que vai acontecer com as taxas de juros, a volatilidade, como
+você sabe bem, é um grande problema, as vezes as taxas de juros podem até estar
+um pouco maiores desde que não tenha tanta volatilidade, mas a volatilidade muito
+alta e taxas de juros em crescimento forte, a inflação, a volatilidade do dólar que
+chegou a R$4,50, voltou para R$5,00, e o cenário econômico mundial também, acho
+que levam as empresas também a serem cautelosas em seus investimentos mais
+vultuosos e isso também muda o seu desempenho em crédito, a sua originação de
+crédito, que fica mais com linhas no curto prazo de capital de giro, para atender um
+pouco o que vai acontecer ao longo de 2022 e todas as empresas um pouco no
+compasso de espera para ver o que acontecerá em 2022 para poder se posicionar
+em 2023. Então acho que esse é um pouco do cenário, não que a gente tenha
+perdido o apetite, a gente tem apetite sim, desde que tenhamos spread para pagar
+o custo de capital que é preponderante, isso a gente tem que levar sempre em
+consideração. E com relação ao cartão de crédito, o crescimento foi acompanhado
+da volta das pessoas a circularem, a ir para shopping, a fazer compras, então ele
+acompanhou um pouco essa mudança do perfil das pessoas em função das
+menores restrições de pandemia, tanto é que o faturamento do cartão de crédito
+no 1T22 foi maior do que o final de ano de 2021, o que não é normal, final do ano
+tem natal e etc, era para ser maior, mas foi isso que aconteceu. A gente entende que
+vai ter um pouco mais de inadimplência porque a gente sabe que a inadimplência de
+cartão de crédito é maior, mas também a receita que o cartão de crédito deixa é
+muito melhor e paga com sobra um eventual aumento de inadimplência que a gente
+tenha, por isso que a gente procurou frisar que entendemos que a inadimplência
+voltou aos níveis históricos de 2019, antes da pandemia, mas que ela deverá crescer
+10 ou 20 pontos ao longo do 2T22 para depois estabilizar em um patamar mais
+elevado, um patamar de antes da pandemia e manter esse patamar.
+
+Marcelo Telles (Credit Suisse) – Muito obrigado!
+
+Operador – Seguimos com Thiago Batista, UBS.
+
+Thiago Batista (UBS) – Olá, pessoal, obrigado pela oportunidade! Minha pergunta
+é sobre a margem com mercado, acho que essa indicação da margem com mercado
+próxima de zero, acho que ninguém esperava há um tempo atrás. Se vocês puderem
+falar um pouco dessa dinâmica da margem com mercado e qual deve ser o nível
+mais normalizado quando a Selic talvez não estiver mais movendo tanto, qual o
+nível que a gente pode esperar dessa margem com mercado? A segunda é só um
+follow-up, você comentou, Octavio, da inadimplência subir 10-20bps no 2T22 e
+seguir mais estável no 2S22, nesse cenário, vocês imaginam voltar a vender mais
+forte carteira ativa, acho que ano passado vocês venderam mais ou menos R$4,5bi,
+esse trimestre foi muito pouco, dá para imaginar que vocês voltam a vender R$1
+bilhão ou alguma coisa dessa magnitude que era mais ou menos o nível normal de
+2021 nesse seu cenário de 10-20bps de piora no 2T22 e mais estável no 2S22?
+
+Octavio de Lazari Junior – Obrigado, Thiago, pelas perguntas! Thiago, com relação
+à margem com mercado, é um fator pontual. Você conhece bem e sabe bem disso,
+o Bradesco é um banco que tem mais de R$800 bilhões de ativos de crédito e um
+banco que não parou de fazer crédito ao longo dos anos, mesmo na pandemia a
+gente continuou acelerando o crédito, se pegar nos últimos 3 anos, nós crescemos
+dois dígitos altos na carteira de crédito, seja na pessoa jurídica grande, seja na
+pequena e média empresa, seja nas pessoas físicas, então a gente não tirou o pé do
+acelerador no crescimento. É natural - naquele momento em que você gerou a
+carteira, nossa última Selic era de 2% e você teve uma subida extremamente rápida,
+repentina e violenta das taxas de juros no país, não foi como nos EUA que saiu de
+1% para 1,5% ou de 0,5% para 1%, mas foi de 2% para 12,75%, então você tem que
+ter um tempo para girar essa carteira, nós estamos conseguindo girar essa carteira
+muito mais rápido. Então esse fato da margem com mercado é absolutamente
+pontual, específico desse momento que estamos vivendo, por isso até que respondi
+para o Eduardo, do carrego positivo para o ano de 2023, porque esse fato da
+margem com mercado se resolve ao longo do tempo, com a criação e a geração da
+carteira nova com a Selic nova, então você resolve isso e passa a trazer uma margem
+com mercado positiva que já acontece ao longo do ano de 2023 com o ritmo que a
+gente tem de renovação da carteira, então é uma situação pontual que acontece em
+um momento que possui uma volatilidade muito intensa, nós já vimos acontecer em
+anos anteriores, em momentos da história do nosso país, mas que rapidamente você
+recupera porque gira a carteira, gera novas operações e volta a ter uma posição
+positiva de ALM. Com relação à inadimplência que você comentou, de fato a gente
+tem a expectativa de subir 10-20 pontos, depois ela se estabiliza já em um nível mais
+alto, similar ao que tínhamos antes da pandemia, e nesse trimestre você observou
+bem, nós não fizemos venda de carteira, seja de carteira ativa ou não, a gente vai continuar fazendo venda da carteira na medida em que nós vermos que há uma
+oportunidade importante e rentável, que faça sentido para nós, tem uma delas que
+está em estudo e deve acontecer ao longo do 2T22, mas estamos avaliando ainda.
+E sempre que tivermos a oportunidade, você vai gerando carteira, vai gerando
+inadimplência, tem NPL, aí você compara, é melhor eu cobrar essa carteira, ou é
+melhor eu vender? O que a gente tem observado ultimamente é de que está muito
+mais adequado você vender as carteiras, agora com o aumento das taxas de juros
+nós temos que colocar isso na balança, mas sim, respondendo afirmativamente a
+sua pergunta, a gente continua estudando e certamente teremos alguma venda de
+carteira ao longo de 2022.
+
+Thiago Batista (UBS) – Muito obrigado!
+
+Operador – Seguimos com Flavio Yoshida, Bank of America.
+
+Flavio Yoshida (Bank of America) - Olá, bom dia a todos. Bom dia, Octavio,
+obrigado pela oportunidade de fazer pergunta. Eu queria explorar um pouco o tema
+de qualidade da carteira. Você acabou de comentar que a inadimplência deve subir
+mais um pouco e vocês comentam que deve retornar ao nível pré-pandemia.
+Quando olhamos por segmento de forma separada, o segmento de pessoa física já
+está em um nível pré-pandemia, então eu gostaria de entender se essa piora que
+ainda vem, vem em todos os segmentos ou se será mais focada para grandes
+empresas que está com uma inadimplência baixa, e queria entender também o que
+dá confiança para vocês de afirmar que a inadimplência deve se estabilizar já ao
+longo do segundo semestre. O que vocês estão enxergando que dá confiança para
+fazer essa afirmativa?
+
+Octavio de Lazari Junior - Flavio, você observou muito bem esse fato da pessoa
+física já ter voltado aos níveis de pré-pandemia e a pessoa jurídica, principalmente
+as grandes empresas, estar em um nível mais baixo. É exatamente isto que você
+falou, o mix mudou. As grandes empresas estão procurando menos crédito, talvez
+se valendo mais do mercado de capital para financiar as suas atividades. Então, o
+mix da carteira mudou. É menos crédito para a pessoa jurídica grande, menos crédito
+imobiliário e mais crédito de capital de giro, de crédito pessoal. O consignado
+continua crescendo, então o mix da carteira mudou. E como mix da carteira mudou
+para operações que tenham um spread maior, é natural que venha uma PDD maior,
+uma provisão maior. Observamos sempre quando há essa mudança de mix. Você
+tinha um crescimento grande de crédito imobiliário, menor nas outras carteiras,
+principalmente de cartão de crédito. Quando acontece essa mudança de mix, isso
+traz uma inadimplência maior, mas também ela tem spreads melhores que pagam
+essa inadimplência. Então, acho que esse é um pouco do cenário que a gente vai
+observar ao longo do ano de 2022. Uma mudança de mix da carteira para carteiras
+mais rentáveis e com maior risco, porém mais rentáveis. Por isso que nósentendemos que a inadimplência não deve reduzir, mas sim manter os níveis
+anteriores da pandemia, até um crescimento de 10 a 20 bps, como eu disse para
+vocês aí ao longo do 2T22.
+
+Leandro Miranda - Só para complementar a resposta do Octavio, quando olhamos
+cada uma das linhas de produto, a inadimplência relativa não mudou. Então, você
+não está com uma deterioração pior em cada um dos produtos. O que você teve,
+como o Octavio comentou, só uma preponderância maior no mix geral por cliente.
+
+Flavio Yoshida (Bank of America) - Entendi, obrigado! Ainda nesse tema, um fato
+que chama a atenção acaba sendo o crescimento do cartão de crédito. Cresceu se
+não me engano, 46% no ano. Ele é uma linha que de certa forma preocupa o
+mercado pela oferta de cartões que todas as instituições acabaram fazendo ao
+longo do último ano. Eu queria entender como vocês estão enxergando o risco
+dessa carteira específica. Se vocês, como têm um cliente que é correntista e tem
+folha de pagamento, e você de fato consegue fazer uma seleção melhor de cliente
+e de fato ofertar o cartão para um cliente com menor risco, ou se vocês estão
+achando que essa linha como um todo pode apresentar uma deterioração de
+inadimplência ao longo do ano?
+
+Octavio de Lazari Junior - Flavio, bem observado por você. O crescimento do
+cartão de crédito que a gente vem observando no banco, está muito voltado para
+os clientes do Bradesco, ou seja, aquelas pessoas que já operam com o Bradesco.
+Então temos o histórico de crédito dessas pessoas e, portanto, obviamente que
+você pode ter uma inadimplência um pouco maior, mas são clientes que já temos
+um conhecimento prévio maior, ou seja, não é um crescimento de cartão de crédito
+no mercado, no red ocean, é em um mercado que já temos um pouco mais de
+controle. Isso também vale para os bancos digitais. Vale para o next, vale para o
+Digio. O crescimento desse volume de cartão de crédito. Então são clientes que nós
+já temos um conhecimento um pouco maior.
+
+Carlos Firetti - Além disso, acho que é importante dizer que nós temos capturado
+um crescimento bastante grande, como o Octavio falou, na base de clientes, mas
+esse crescimento todo do volume, ele tem a ver com a reabertura da economia,
+reabertura de atividades de lazer, viagens, dos cartões corporativos que temos uma
+operação bastante importante, e tem a ver também com a inflação. Você tem itens
+de consumo, dentro do consumo de cartão de crédito, como por exemplo
+passagens aéreas, combustíveis, que têm um aumento bastante substancial, e são
+atividades que têm uma concentração de volume muito grande dentro das
+operações de cartão de crédito. Então, o 45% tem a ver com o desempenho muito
+bom que a gente vem tendo, mas também tem esses outros fatores que eu
+mencionei.
+
+Flavio Yoshida (Bank of America) - Está ótimo, obrigado pessoal. Super claro!
+
+Operador - Seguimos com Jörg Friedemann, Citibank.
+
+Jörg Friedemann (Citibank) - Muito obrigado! Eu vou explorar um tema aqui que o
+pessoal ainda não falou que é a parte de seguros. Vocês estão reafirmando o
+guidance de crescimento de 18% a 23%, mas o primeiro trimestre anualiza algo
+muito abaixo disso. Tem umas pressões aí que a gente já conhece, a sinistralidade
+ainda está um pouco alta por conta de alguns fatores pontuais. Você tem também
+a questão dos índices inflacionários que afetam a carteira de previdência. Se vocês
+pudessem elaborar um pouco mais sobre o conforto que vocês têm para que vocês
+convirjam para o guidance de seguros, acho que também ajuda a gente a afinar os
+modelos aqui. Obrigado!
+
+Octavio de Lazari Junior - Jörg, obrigado pela pergunta. O Ivan Gontijo, que é CEO
+da Seguradora, presidente da seguradora, está com a gente. Ivan, você pode
+comentar a pergunta do Jörg, por gentileza?
+
+Ivan Gontijo - Muito obrigado, Octavio. Jörg, é um prazer grande. Queria dizer a
+você o seguinte: nós estamos confortáveis e não alteramos o nosso guidance
+porque já estamos olhando para o segundo trimestre de uma forma muito diferente.
+A sinistralidade baixa, a receita financeira aumenta e nos dá um conforto muito
+grande. Se você for olhar para março, como o Octávio já ressaltou, nós vamos
+verificar que, comparativamente com março de 2021, nós já temos um crescimento
+de 16%. Então, a parte financeira está muito bem, sob controle. O segundo ponto
+que me parece importante nós registrarmos para você seria o incremento de dois
+dígitos no faturamento, ou seja, no prêmio líquido. Não estou tratando nem de
+prêmio ganho, que vem um rescaldo do ano passado. Eu estou tratando de negócios
+feitos neste primeiro trimestre, que totalizaram algo em torno de R$22 bilhões. Isso
+mostra um crescimento de dois dígitos, na casa de 13%. Se nós formos olhar o
+faturamento por segmento, no auto/RE há um crescimento de 24%; na parte de
+capitalização 19%; na vida e previdência 16% e na saúde e dental algo próximo a 8%.
+Então, em todas as linhas de negócio nós temos conforto para olhar para o segundo
+trimestre, manter o guidance e ter o conforto necessário de que vamos atingi-lo sim.
+Outro ponto que me parece importante é o índice de eficiência administrativa de
+3,7%, que é uma das melhores marcas que o grupo segurador atingiu nos últimos
+anos. Em relação a sinistralidade, seja na saúde, vida, ou no habitacional, nós vemos
+um decréscimo no primeiro trimestre, bem forte, conforme o Octávio também já
+descreveu, mas no segundo trimestre, nós já sentimos isso de forma ainda mais
+latente. Então, a baixa da sinistralidade associada aos novos negócios, aos novos
+incrementos no faturamento que estão de forma consistente, mês a mês,
+crescendo, nos dão o conforto para o atingimento do guidance já no segundo
+trimestre. E por esta razão não alteramos o guidance do grupo Segurador. Não sei se respondi integralmente a sua pergunta. Qualquer outro ponto, estou à
+disposição.
+
+Jörg Friedemann (Citibank) - Está perfeito! Muito obrigado pelos esclarecimentos.
+E só para fazer um follow up, vocês falam bastante de qualidade de carteira, mas só
+para reiterar o nosso entendimento sobre o que vocês vislumbram de convergência
+da cobertura para o final do ano. Só para termos a certeza que estamos trabalhando
+com os números corretos.
+
+Octavio de Lazari Junior – Oi, Jörg, prazer em falar com você, querido. Nós estamos
+com um indicador de 235%. Ele está até um pouco maior que antes da pandemia. Se
+puxarmos a linha dos últimos 10 anos, você vai ver que sempre mantemos. Eu diria
+que esse indicador vai ficar entre 210%-200%. Acho que não foge disso. Entre
+200% e 210%.
+
+Jörg Friedemann (Citibank) - Perfeito! É que eu vi que vocês estão mantendo ainda
+aquela provisão adicional em níveis bastante altos. Acho que é o que dá esse
+conforto também. Obrigado, muito obrigado pelos esclarecimentos!
+
+Octavio de Lazari Junior - É isso mesmo, Jörg. Você está certo, obrigado!
+
+Operador - A próxima pergunta vem de Pedro Leduc, Itaú BBA.
+
+Pedro Leduc (Itaú BBA) - Bom dia a todos, obrigado pela pergunta. Ela vem em
+relação ao update de guidance de despesas com PDD. Muita coisa mudou desde o
+último trimestre. Vocês revisaram para cima NII e também revisaram para cima essa
+expectativa com despesas de provisão. Aqui eu queria explorar um pouquinho mais
+o conforto que vocês têm para guiar aí para um mid point de R$19 bi. Parece muito
+com os run rates que a gente teve neste primeiro trimestre, teria sido até maior, se
+não tivesse tido uma recuperação de impairment. A linha de NPL, tanto como NII,
+parece que está subindo mais rápido. Quando falávamos de NPL pré-pandemia, do
+meio para o final do ano e já estamos lá. Indicadores de 90 dias de Bradesco
+parecem piores do que o da indústria já faz alguns trimestres. E ainda assim, vocês
+parecem ter o conforto que despesa com PDD não sobem muito mais que o nível
+que a gente viu neste primeiro trimestre. Queria entender um pouquinho mais o que
+vocês estão vendo, já mencionaram aí 20 bps aqui no segundo trimestre e
+especificamente, SMEs, que parece estar um pouquinho mais nervoso aqui, se vocês
+estão fazendo alguns ajustes já na originação para dar esse conforto de ter esta
+despesa com PDD controlada nesses níveis no final do ano ou se é realmente uma
+melhora macro que vocês estão vendo, para dar esse conforto. Obrigado!
+
+Leandro Miranda – Oi, Pedro, é o Leandro falando. Basicamente, o que nós temos
+visto é que o NPL deve estar subindo mais uns 10-20 bps no próximo trimestre e
+depois isso aqui se estabelece no segundo semestre. Em relação a cada um dos
+segmentos que nós atuamos, temos visto, até pelo resultado do impairment, que o
+segmento de grandes empresas tem melhorado na qualidade creditícia. Então
+esperamos que isso aqui continue também. Se você reparar, o nível de
+inadimplência caiu nesse segmento, então também é um conforto extra que a gente
+tem. Na linha de provisionamento, devemos ter alguma coisa próxima dos R$20
+bilhões que sinalizamos. Os nossos modelos de perda esperada estão indicando no
+cenário que temos hoje, com as premissas que o nosso departamento de economia
+tem usado. Então, nós estamos tranquilos que voltaremos para o nível de 2019 e
+que depois disso, nós devemos manter os coeficientes que indicamos.
+
+Octavio de Lazari Junior - Só para complementar, a inadimplência em grandes
+empresas, quando tem algum problema em vista, todo mundo fica sabendo, porque
+sai nos jornais, todos têm conhecimento. Não tem nenhuma grande empresa que
+você tenha no radar que possa estar com problema. Então não devemos ter
+surpresa nas grandes empresas, o que nos dá esse relativo conforto de soltar esse
+novo guidance de despesa de PDD.
+
+Leandro Miranda - E tem duas coisas para adicionar, Pedro. Primeiro que
+relativamente o tamanho da carteira, nós já somos o banco mais provisionado.
+Quando você olha os demais bancos, você vai ver que eles têm que reforçar a
+provisão para ficar em níveis próximos ao nosso. A segunda coisa é que nós temos
+a maior carteira corporativa do Brasil, então, relativamente, por mais que a gente
+tenha visto uma mudança de mix, ela ainda é, em termos de volume, bem menor no
+segmento de pessoa física e pequenas e média empresas do que a gente tem em
+grandes empresas. Então, é esse benefício que trazemos por conta desse equilíbrio.
+
+Pedro Leduc (Itaú BBA) - Está certo. Então se eu entendi direito, o NPL pessoa física
+talvez está um pouco mais rápido, só que grandes empresas está dando esse
+conforto para o balanço de vocês. Está clara a foto, obrigado! E pessoas físicas,
+algum ajuste sendo feito na originação, porque realmente parece que está um
+pouco acima do sistema, né?
+
+Leandro Miranda – Não, o que acontece aqui, como o Octavio estava comentando,
+é que nós estamos com o mix de produtos mais rentáveis que puxam mais provisão,
+como é o caso do cartão de crédito, do rotativo, do parcelado, e uma diminuição
+daqueles produtos em que sempre lideramos, que são produtos, por exemplo, de
+baixo risco como imobiliário que, portanto, tem um spread menor. Então, você verá
+que, relativamente, essa carteira traz mais retorno, mas puxa mais PDD também. O
+que olhamos aqui, no final das contas, é o spread liquido - que tem crescido, só
+neste trimestre foram 30 bps.
+
+Octavio de Lazari Junior - Inclusive quando você incorpora a nova Selic nos
+modelos de crédito e analytics, é natural que você tenha uma mudança, então não
+é que colocamos freio, mas é que a nova taxa de juros exige mais renda e outros
+fatores do cliente para que a operação possa entrar. Então é meio que um
+movimento natural.
+
+Pedro Leduc (Itaú BBA) - Está super claro, gente. Obrigado e até o próximo
+trimestre!
+
+Octavio de Lazari Junior – Obrigado, Pedro, tchau!
+
+Operador - Seguimos com Carlos Gomez, HSBC.
+
+Carlos Gomez (HSBC) - Bom dia e obrigado! Queria perguntar sobre capital, foi
+estável no tri, 12,5% de CET1. Qual o objetivo para o final do ano e qual consequência
+vai ter para payout da companhia? E a segunda pergunta é: com os valuations até
+agora no mercado, teria sentido para o banco consolidar o setor de fintech, fazer
+mais investimentos? Sem mais colocações. Muito obrigado!
+
+Carlos Firetti - Carlos, eu não entendi essa sua última pergunta. Você pode repetir,
+desculpe.
+
+Carlos Gomez (HSBC) - Se faz sentido comprar alguma fintech que está no
+mercado com os valuations que tem hoje?
+
+Carlos Firetti - Em relação a capital, temos uma posição bastante confortável, a
+nossa operação vai continuar gerando capital até o final do ano. Eu acho que a
+posição de capital que a gente tem hoje, para nós, é uma posição que parece
+adequada para o momento. Em termos de dividendos, nós devemos manter a nossa
+política de payout, pagando integralmente os juros sobre capital próprio e
+mantendo o payout nos níveis que temos visto. Por enquanto, a política não tem
+nenhuma mudança.
+
+Octavio de Lazari Junior - Com relação a aquisição de fintechs, tem dois aspectos
+importantes. O primeiro é que continuamos olhando e está no nosso radar, tanto do
+Renato, como do Curt, como do Giovane, olharmos muito empresas que façam
+sentido e que possam trazer valor agregado para as nossas empresas, ou antecipar o movimento que temos que fazer da evolução tecnológica. Muitos negócios estão
+sendo olhados e, se fazem sentido, fazemos a aquisição. O próprio Bitz adquiriu
+duas empresas, a 4ward e a Dindin. Adquirimos, trouxemos a competência do
+management e crescemos com essas empresas. E do outro lado, nós também temos
+– aliás, tem mais dois lados – tem o lado do private equity, que é nosso fundo de
+investimento em que temos várias empresas em que somos investidores, nunca
+como controladores e sempre como investidores com a participação de 10%, 15%
+ou 20% no máximo, são 17-18 empresas investidas no total, que nós também
+continuamos olhando e continuamos fazendo aquisições de algumas empresas. O
+Curt também tem uma outra iniciativa que é uma empresa de investimento em
+outros negócios que façam sentido para organização, para acelerarmos
+desenvolvimento tecnológico e a Bradesco Seguros também tem uma vertente
+importante de inovação tecnológica lá, mas não só inovação tecnológica, mas
+também em negócios complementares ao nosso negócio. Investimentos em Fleury,
+em Orizon e em várias empresas que o grupo segurador tem também. Esse assunto
+de aquisição ou de investir em fintechs é algo que está no radar permanente do
+banco.
+
+Renato Ejnisman - No next, neste trimestre, só para complementar, anunciamos a
+aquisição da Aarin, que é uma fintech que faz tanto serviço de pix, quanto check-
+out, que vai nos ajudar a ter controle do nosso cashback dentro do ecossistema do
+next e já havíamos anunciado não exatamente a compra da carteira, mas uma
+transação que nos permitiu trazer a carteira de pessoa física dos clientes do BS2.
+
+Octavio de Lazari Junior - Isso! Bem lembrado, Renato.
+
+Carlos Gomez (HSBC) - Muito Obrigado!
+
+Octavio de Lazari Junior - Um abraço!
+
+Operador – Obrigado! Seguimos sem perguntas e para as considerações finais do
+Bradesco.
+
+Leandro Miranda - Obrigado a todos pela participação. Encerramos, portanto, a
+conferência e, caso tenham questões adicionais ou pontos que vocês gostariam de
+maiores esclarecimentos, nosso Departamento de Relações com Investidores está
+sempre à disposição. Muito obrigado!
+
+Octavio de Lazari Junior – Obrigado, gente. Boa tarde a todos e obrigado pela
+atenção de vocês. Estamos à disposição. Um abraço!
+
+Operador – Obrigado! A teleconferência do Bradesco está encerrada. Agradecemos
+a participação de todos. Tenham um ótimo dia.
